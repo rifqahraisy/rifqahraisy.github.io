@@ -11,19 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Kenalan yuk!
-## Header 2
-### Header 3
+# Hellow! Assalamualaikum! 
+<p>nama aku Rifqah Rihhadatul'Aisy. Biasanya temen temen aku panggil aku Rifqah. Aku lahir di Jakarta, 8 november 2001. sekarang aku tinggal di Bukit Cimanggu City, Bogor. Aku bersekolah di SMK SMAK Bogor. sebelumnya aku bersekolah di SMPIT At-Taufiq Bogor.</p>
+<img src="img/rifqah.jpg">
+## Ini Aku
+<p>aku 3 bersaudara. aku anak sulung. aku punya orangtua. punya nenek dan kakek. aku punya banyak teman yang baik. aku sekarang kelas 11. guru aku banyak. ada yang galak ada yang baik. 
+aku suka makan. aku suka cumi, ayam, mi. aku gasuka buah ga terlalu suka sayur juga. aku ga bisa olahraga jadi aku gasuka olahraga:).</p>
+### Hob i
+<p>aku mempunyai banyak hobi. saking banyaknya, aku gatau apa hobi ku:) tapi yang jelas aku suka membaca buku tapi pastinya kecuali buku pelajaran dan buku buku tebel yang cover nya keras.selain baca buku aku juga senang mendengarkan lagu, lagu apa aja sih tapi kecuali rock dan dangdut. oh iya, sama bukan lagu zaman dulu, ya!.</p>
 
-- Bulleted
-- List
+<img src="img/hobirifqah1.jpg">
+<img src="img/hobirifqah2.jpg">
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
